@@ -1,4 +1,4 @@
-The data contains all the necessary training images
+The data contains all the necessary training images, in case the dataset is being truncated by Github, go to this site for dataset: https://www.kaggle.com/competitions/gan-getting-started
 
 CycleGAN_Monet.ipynb is the process of training CycleGAN, also is used to inference Monet style images. It also evaluate the FID score of the generated images. 
 
